@@ -20,7 +20,7 @@ footer:
 author: '薛剑文'
 nickname: '文文'
 bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
-avatar: 'assets/img/profile.png'
+avatar: '/assets/img/profile.png'
 
 # Search
 search: true
@@ -39,7 +39,7 @@ livere_uid: MTAyMC8yODEwMC80Njcz
 reward:
   enable: true
   reward_comment: '真诚赞赏 手有余香'
-  wechatpay: 'assets/img/wechat.png'
+  wechatpay: '/assets/img/wechat.jpg'
   alipay: '/assets/img/ailipay.jpg'
 
 # b2t 回到顶部 by Ray-Eldath
