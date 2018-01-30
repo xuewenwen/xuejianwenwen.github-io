@@ -20,7 +20,7 @@ footer:
 author: '薛剑文'
 nickname: '文文'
 bio: '前端开发者，热爱技术&设计，简单乐观爱创造'
-avatar: 'blog/assets/img/profile.png'
+avatar: 'assets/img/profile.png'
 
 # Search
 search: true
@@ -39,8 +39,8 @@ livere_uid: MTAyMC8yODEwMC80Njcz
 reward:
   enable: true
   reward_comment: '真诚赞赏 手有余香'
-  wechatpay: 'blog/assets/img/wechat.png'
-  alipay: 'blog/assets/img/ailipay.jpg'
+  wechatpay: 'assets/img/wechat.png'
+  alipay: '/assets/img/ailipay.jpg'
 
 # b2t 回到顶部 by Ray-Eldath
 b2t: true
@@ -57,7 +57,7 @@ postPatterns: 'circuitBoard'
 
 # SNS settings 配置社交网站url: email, weibo, zhihu, twitter, instagram, juejin, github, douban, facebook, dribble, uicn, jianshu, medium, linkedin
 sns:
-  email: 'mailto:782877160@qq.com'
+  email: 'mailto:ray.782877160@qq.com'
   weibo: '//weibo.com/xuejianwen2012'
   juejin: '//github.com/xuewenwen'
   instagram: '//'
